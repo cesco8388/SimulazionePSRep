@@ -1,0 +1,11 @@
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.exe
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.deps.json
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.runtimeconfig.json
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.runtimeconfig.dev.json
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.dll
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\ModelloSimulazionePS.pdb
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.csprojAssemblyReference.cache
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.AssemblyInfoInputs.cache
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.AssemblyInfo.cs
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.dll
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.pdb
