@@ -9,3 +9,4 @@ C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netc
 C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.AssemblyInfo.cs
 C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.dll
 C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\obj\Debug\netcoreapp3.0\ModelloSimulazionePS.pdb
+C:\Users\cesco\Source\repos\SimulazionePSRep\ModelloSimulazionePS\bin\Debug\netcoreapp3.0\risultatoTesto.txt
